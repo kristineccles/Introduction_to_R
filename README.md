@@ -33,7 +33,7 @@ Textbooks:
 
 R Cheatsheets:
 
-These cheatsheets](https://rstudio.com/resources/cheatsheets/) are provided by the R community and RStudio, describing common procedures and packages. Good cheatsheets to look at are: 
+These [cheatsheets](https://rstudio.com/resources/cheatsheets/) are provided by the R community and RStudio, describing common procedures and packages. Good cheatsheets to look at are: 
 
 -[Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 
