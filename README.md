@@ -24,14 +24,16 @@ An overview of the workshop material is listed here:
 
 ## External resources
 Textbooks:
+
 [R in a Nutshell](http://guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf)
 
-[Free R for Data Science](https://r4ds.had.co.nz/transform.html)
+
+[R for Data Science](https://r4ds.had.co.nz/transform.html)
 
 
-R [cheatsheets](https://rstudio.com/resources/cheatsheets/):
+R Cheatsheets:
 
-These cheatsheets are provided by the R community and RStudio, describing common procedures and packages. Good cheatsheets to look at are: 
+These cheatsheets](https://rstudio.com/resources/cheatsheets/) are provided by the R community and RStudio, describing common procedures and packages. Good cheatsheets to look at are: 
 
 -[Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 
