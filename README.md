@@ -20,9 +20,9 @@ Note: The most current version is 1.2.5033
 
 An overview of the workshop material is listed here:
 
-1. Workshop background information (slides)
-2. Scipt files
-3. Data
+1. Tutorial background information (slides) (1)
+2. R Script files (3)
+3. Data (1)
 
 ## External resources
 Textbooks:
