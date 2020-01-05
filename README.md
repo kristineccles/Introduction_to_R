@@ -27,10 +27,9 @@ An overview of the workshop material is listed here:
 ## External resources
 Textbooks:
 
-[R in a Nutshell](http://guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf)
+- [R in a Nutshell](http://guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf)
 
-
-[R for Data Science](https://r4ds.had.co.nz/transform.html)
+- [R for Data Science](https://r4ds.had.co.nz/transform.html)
 
 
 R Cheatsheets:
