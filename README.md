@@ -1,10 +1,12 @@
 # Introduction to R
 
-This repository contains the documentation, background material, scripts, and data for a workshop on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in geography and environmental science.
+This repository contains the documentation, background material, scripts, and data for a tutorial on the Introduction to R. This introductory workshop is greared towards people with a interest/ background in geography and environmental science.
+
+### Please download all files in this respository as they will be needed for the first lecture
 
 ## Installation requirements
 
-This workshop requires two things to be installed: The language R and the IDE Rstudio. The downloads can be accessed from the following websites. A variety of packages willl be used and will be instaled within the R environment using the command install.packages("packagename").
+This tutoria requires two things to be installed: The language R and the IDE Rstudio. The downloads can be accessed from the following websites. A variety of packages willl be used and will be instaled within the R environment using the command install.packages("packagename").
 
 1. Install R from https://cran.rstudio.com/
  
