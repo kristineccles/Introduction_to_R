@@ -37,15 +37,15 @@ R Cheatsheets:
 
 These [cheatsheets](https://rstudio.com/resources/cheatsheets/) are provided by the R community and RStudio, describing common procedures and packages. Good cheatsheets to look at are: 
 
--[Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+- [Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
 
--[Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+- [Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
 
--[Dates and Times](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf)
+- [Dates and Times](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf)
 
--[Data Visualization with ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+- [Data Visualization with ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
 
--[Cartography](https://github.com/rstudio/cheatsheets/raw/master/cartography.pdf)
+- [Cartography](https://github.com/rstudio/cheatsheets/raw/master/cartography.pdf)
 
 
 
