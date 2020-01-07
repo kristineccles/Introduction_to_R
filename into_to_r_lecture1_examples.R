@@ -26,7 +26,7 @@ primes == 3
 #This is called a character vector in R.
 c("Hello world", "Hello R interpreter")
 
-# Factor
+# How to encode data as a Factor
 kids = factor(c(1,0,1,0,0,0), levels = c(0, 1),
                 labels = c("boy", "girl"))
 kids
@@ -34,8 +34,11 @@ kids
 # you can covert numbers (coded variables) to factors using as.factor(varname) 
 # or can convert cateogrical data to numeric using as.numberic(varname)
 
-#Numeric
+# Numeric
 as.numeric(kids)
+
+# Convert Back to Factor
+as.factor(kids)
 
 #### Martrix ####
 # a matrix is a 2D array
