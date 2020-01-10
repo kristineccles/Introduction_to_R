@@ -16,13 +16,14 @@ Note: The most current version is 1.2.5033
 
 ## Materials 
 
-### Please download all files in this respository as they will be needed for the first lecture
+### Please download all files in this respository as they will be needed for the workshop
 
 An overview of the workshop material is listed here:
 
-1. Tutorial background information (slides) (1)
-2. R Script files (3)
-3. Data (1)
+1. Tutorial background information (slides) 
+ - Lecture 1 and Lecture 2
+2. R Script files
+3. Data files
 
 ## External resources
 Textbooks for general R use:
@@ -31,9 +32,9 @@ Textbooks for general R use:
 
 - [R for Data Science](https://r4ds.had.co.nz/transform.html)
 
-Textbooks for statistics using R:
+Statistics in R:
 - Chapter 9: [R Cookbook](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf)
-
+- For more a more in depth background in Statistics please reference material from my [Introduction to Statistics] (https://github.com/kristineccles/introduction_to_stats) course I previously taught. 
 
 R Cheatsheets:
 
