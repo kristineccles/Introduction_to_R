@@ -25,11 +25,14 @@ An overview of the workshop material is listed here:
 3. Data (1)
 
 ## External resources
-Textbooks:
+Textbooks for general R use:
 
 - [R in a Nutshell](http://guianaplants.stir.ac.uk/seminar/resources/R_in_a_Nutshell_Second_Edition.pdf)
 
 - [R for Data Science](https://r4ds.had.co.nz/transform.html)
+
+Textbooks for statistics using R:
+- Chapter 9: [R Cookbook](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf)
 
 
 R Cheatsheets:
