@@ -84,8 +84,6 @@ df_clean$temp_bin=bin(df_clean$Temp, nbins = 2, labels = c('low','high'), method
 # test assumptions on RESIDUALS
 
 
-# Adjusted R-squared:  0.655, p-value: < 2.2e-16
-
 
 #### PCA ####
 # PCA
