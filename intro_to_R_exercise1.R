@@ -22,6 +22,12 @@ is.na(sturgeon)
 summary(sturgeon)
 # you will also see missing data in this summary 
 
+# another way to take a look at the data is look at its sturcture
+str(sturgeon)
+
+#and finally, a check that the data itself (not summarized in any way) looks good
+head(sturgeon)
+
 # Clean the data (if necessary)
 # create new dataset without missing data 
 sturgeon_clean=na.omit(sturgeon)
