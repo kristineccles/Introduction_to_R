@@ -35,6 +35,7 @@ Textbooks for general R use:
 Statistics in R:
 - Chapter 9: [R Cookbook](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf)
 - For more a more in depth background in Statistics please reference material from my [Introduction to Statistics] (https://github.com/kristineccles/introduction_to_stats) course I previously taught. 
+- This is a helpful website for understanding [PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 
 R Cheatsheets:
 
