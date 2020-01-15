@@ -14,7 +14,7 @@ library(ggplot2)
 library(psych) # describe and mutli.hist
 library(car) #stats
 library(corrplot)
-library(stats)# cor, princomp
+library(stats)# cor, princomp, prcomp
 library(lmtest)
 library(factoextra) #pca plots
 
