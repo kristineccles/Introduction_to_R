@@ -21,7 +21,8 @@ Note: The most current version is 1.2.5033
 An overview of the workshop material is listed here:
 
 1. Tutorial background information (slides) 
- - Lecture 1 and Lecture 2
+ - Lecture 1 (intro_to_r.pdf)
+ - Lecture 2 (intro_to_r_lecture2.pdf)
 2. R Script files
 3. Data files
 
