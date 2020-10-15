@@ -5,21 +5,28 @@
 
 #############################################################
 # Load Libraries
-# Requires athe ggplot2 package that is not part of base installation
+# Requires the ggplot2 package that is not part of base installation
 # To install the package, uncomment the following line
 # install.packages("ggplot2", dependencies=TRUE)
 library(ggplot2)
 
 # Load data
+# note this assumes data is in the same folder as script
 sturgeon= read.csv("sturgeon.csv")
 
 #############################################################
-# Check to see if we have emissing data
+# Check to see if we have missing data
 is.na(sturgeon)
 
 # Summarize the contents of the sturgeon dataframe
 summary(sturgeon)
 # you will also see missing data in this summary 
+
+# another way to take a look at the data is look at its sturcture
+str(sturgeon)
+
+#and finally, a check that the data itself (not summarized in any way) looks good
+head(sturgeon)
 
 # Clean the data (if necessary)
 # create new dataset without missing data 
@@ -55,7 +62,7 @@ plot2 <- ggplot(sturgeon_clean) +
   facet_grid(sex ~ year)
 plot2
 
-# QQ plot de fklngth
+# QQ plot of fklngth
 qqnorm(fklngth)
 qqline(fklngth)
 # Are there outliers?
